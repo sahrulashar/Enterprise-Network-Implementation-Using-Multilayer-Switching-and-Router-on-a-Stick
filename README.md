@@ -82,5 +82,3 @@ configs/R1.cfg                  - running-config router edge
 configs/MULTILAYERSWITCH.cfg    - running-config distribution switch
 configs/SW1.cfg                 - running-config access switch
 ```
-
-Import ulang ke Packet Tracer via copy-paste ke `configure terminal` masing-masing device, atau gunakan sebagai referensi dokumentasi.
